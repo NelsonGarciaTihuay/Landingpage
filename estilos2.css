@@ -6,7 +6,9 @@
 		font-family: 'Montserrat Alternates', sans-serif;
 	}
 	body{
-        background-color:#a6da81;
+        background: url(https://wallpapercave.com/wp/wp4201472.jpg);
+		background-size: 100vw 165vh;
+		background-repeat: no-repeat;
 	}
 	.capa{
 		position: fixed;
@@ -118,14 +120,14 @@
 		font-size: 18px;
 	}
 	.contactanos{
-		background-color: #9B91D9;
+		background-color: #8C7972;
 		border-radius: 10px;
     }
     .medio{
         text-align: center;
         padding: 30px;
         color: white;
-        background-color: #9B91D9;
+        background-color: #8C7972;
         margin: 10%;
         border-radius: 20px;
         font-size: 30px;
